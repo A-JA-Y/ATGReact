@@ -1,0 +1,9 @@
+.btn{
+    min-width: 100%;
+    outline: 1px solid rgb(128,100,162);
+}
+.btn1,.btn2{
+    float: left;
+   
+    
+}

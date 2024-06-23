@@ -24,8 +24,11 @@
   color: white;
 }
 
-.App-link {
-  color: #61dafb;
+.blue{
+  color: rgb(0, 150, 200);
+}
+.violet{
+  color: rgb(128,100,162)
 }
 
 @keyframes App-logo-spin {
@@ -36,3 +39,22 @@
     transform: rotate(360deg);
   }
 }
+
+.container-fluid{
+padding: 20px;
+height: 678px;
+width: 100vw;
+background-color: #f7f5f9;
+}
+.photo{
+  margin-top: 100px;
+}
+
+.headlineandpara{
+  text-align: left;
+}
+.para{
+  
+  margin-top: 30px;
+}
+
